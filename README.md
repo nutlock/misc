@@ -1,5 +1,5 @@
 # misc
-## restrt Visual Studio with Your backuped settings - solves most of the problems
+## restart Visual Studio with Your backuped settings - solves most of the problems
 
 http://stackoverflow.com/questions/9655362/localdb-deployment-on-client-pc
 http://stackoverflow.com/questions/27564279/what-is-the-best-way-to-attach-existing-database-to-sql-localdb
